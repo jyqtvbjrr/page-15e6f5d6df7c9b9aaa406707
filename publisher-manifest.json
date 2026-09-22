@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1d83534f04088345885c93f1",
+  "owner": "jyqtvbjrr",
+  "repo": "page-15e6f5d6df7c9b9aaa406707",
+  "title": "花禾(Huahe)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "15e6f5d6df7c9b9aaa406707",
+      "a": "花禾(Huahe)",
+      "b": "2027最新官网",
+      "entity": "花禾(Huahe)",
+      "brand": "花禾(Huahe)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "328c89eed46ad6f4ff377007aefe7ff79a3fb7a8a95dd9cd24ec3b2059dae92b",
+      "content": {
+        "primary_entity": "花禾(Huahe)",
+        "keyword1": "花禾(Huahe)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，并参考其订阅导入方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后即可开始配置，按客户端文档导入订阅地址。",
+          "AI_CLOSING_TITLE": "花禾订阅配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备同时在线，可按个人或团队规模对比设备数量、流量与年付价格后选择。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与付费周期三个角度挑选花禾订阅。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备与 100GB 月流量，年付 ¥150，适合轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备与 300GB 月流量，年付 ¥350，含 IPLC 与优先工单。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备与 1000GB 月流量，年付 ¥850，含定制路由选项。",
+          "AI_FEATURE_TITLE_1": "按设备数量",
+          "AI_FEATURE_TITLE_2": "按流量需求",
+          "AI_FEATURE_TITLE_3": "按付费周期",
+          "AI_GUIDE_INTRO": "挑选服务、查看适配要求、按客户端文档完成配置。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_HERO_INTRO": "花禾(Huahe)海外加速器按流量与设备数量提供三档订阅，覆盖基础、旗舰与团队使用场景，方便按实际需求对比价格与权益。",
+          "AI_HERO_SUBTITLE": "花禾订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "年付价格低于月付累加",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 与优先工单",
+          "AI_PLANS_INTRO": "对比月流量、设备数量与年付价格：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量、月流量与是否需要 IPLC 或优先支持，对比三档订阅。",
+          "AI_STEP_TEXT_2": "确认当前设备系统与网络环境是否满足所选套餐的适配要求。",
+          "AI_STEP_TEXT_3": "打开所选客户端，依照其文档导入订阅地址并同步节点。",
+          "AI_STEP_TITLE_1": "挑选服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "花禾订阅对比",
+          "AI_FAQ_TITLE": "花禾常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "花禾基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备在线，使用普通线路节点池。旗舰版每月300GB流量，支持5台设备在线，包含全节点原生流媒体解锁和IPLC专线游戏加速优化，另有7x24优先工单支持。",
+          "AI_FAQ_QUESTION_2": "一个花禾账号能在几台设备上同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出同时在线数量可能导致账号在部分设备上断开，按实际终端数量选择套餐即可。",
+          "AI_FAQ_QUESTION_3": "花禾年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付¥15，按年付约¥150；旗舰版月付¥35，按年付约¥350；团队版月付¥85，按年付约¥850。年付相当于按十个月左右的费用使用十二个月。",
+          "AI_FAQ_QUESTION_4": "花禾订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买套餐后获取订阅链接，在对应系统的客户端中新建订阅并粘贴链接，更新节点列表后选择节点连接。各客户端的具体操作请参照其文档说明。",
+          "AI_FAQ_QUESTION_5": "花禾团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量，支持20台设备同时在线，提供VIP专属高带宽节点、企业定制路由和专属客户经理服务，适合多人协作或需要稳定高带宽的办公场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "308lxa.cn",
+    "host": "308lxa.cn"
+  },
+  "file_hashes": {
+    "index.html": "a0c3c7789b9f04664c26aaa99dd0cba4a8af44fc2d5f775c1666ef0a42becb8f",
+    "sitemap.xml": "59f64984b91c4e8a3e7d626e764e52174c29b9f308e73e3f974551d9b71d371c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c9f452ae8418edce7c6cbebde611445d6de234a2f56aa8c6efe3d2280aae26cd",
+    "robots.txt": "912270b60fffc393cbe6ff00e76bc54df732399a81901405b0ea3b335aba473a",
+    "df6ec6b54a5d339f2db35d015617a2de.txt": "6ea09ace641f4d03d20f9eab4bc66dcdc888b8bf327f2a52d77915549d766311"
+  },
+  "revision": "816f989a3e0061cd8804dbba2c65ebceef1c33d47d3e2837ad4507bdb293e7d8"
+}
